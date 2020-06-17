@@ -1,1 +1,1 @@
-# Resources Collection for Remote Legal Teams
+# Resource Collection for Remote Legal Teams
