@@ -103,6 +103,7 @@ The Liquid Legal Institute is an open and interdisciplinary platform promoting a
  We believe in the power of collaboration, co-innovation and simplification. We base or work on actual needs and invite all stakeholders to bring in their perspectives and set the bar for tomorrow's legal! 
 
 **Find out more and join us today!**
+
 Just visit https://www.liquid-legal-institute.org/
 
 
@@ -118,4 +119,4 @@ Just visit https://www.liquid-legal-institute.org/
 
 **Help us learn**
 
-We are looking forward to hear insights, comments and feedback. We’d love to hear from you!  Contact us at [RemoteLegalTeams@liquid-legal-institute.org](mailto:RemoteLegalTeams@liquid-legal-institute.org?subject=Remote Legal Teams – comments)!
+We are looking forward to hear insights, comments and feedback. We’d love to hear from you! Contact us at RemoteLegalTeams [AT] liquid-legal-institute.org!
