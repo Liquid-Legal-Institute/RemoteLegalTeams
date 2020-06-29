@@ -46,6 +46,7 @@ This collection is meant as a support for the Liquid Legal Institute paper on Re
 #### A. IV. 1. Podcasts 
 
 * Matt Mullenweg, **The future of work is here**, https://distributed.blog/podcast/ 
+* **Remote Work Life**, https://remoteworklife.io/, we especially recommend the issue with Matthew Stibbe, https://remoteworklife.io/rwls-matthew-stibbe/
 
 #### A. IV. 2. Twitter accounts and lists 
 
