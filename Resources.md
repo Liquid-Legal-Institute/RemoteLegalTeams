@@ -1,6 +1,6 @@
 # Resource Collection for Remote Legal Teams
 
-This collection is meant as a support for the Liquid Legal Institute [paper on Remote Legal Team Work](https://forms.office.com/Pages/ResponsePage.aspx?id=kLrx91jzWE277-DtkCJQCUqVXV2DGClBopFyynn0rllUN0daNDRSVlVMNlY5S0laSVlKUFQ3TTRGNi4u), available for download at our website [https://liquid-legal-institute.org/](https://www.liquid-legal-institute.com/workinggroups/remote-legal-teams/). 
+This collection is meant as a support for the Liquid Legal Institute [work on Remote Legal Team Work](https://www.liquid-legal-institute.com/workinggroups/remote-legal-teams/), including the [essay on "Remote Legal Teams—Getting Started and Making It Work!"](https://liquidlegalinstituteorg.sharepoint.com/:b:/s/LegalAgileToolkit/EcsHDUCOfQ9Ljtmlr-GxUTcB0hopr5aHDoHW-Bxr3r-8pQ?e=PCkclF). Please note that we are currently doing user research interviews which you can ask to be included in by dropping us a line to RemoteLegalTeams [AT] liquid-legal-institute.org. 
 
 ## A. English language resources 
 
