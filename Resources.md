@@ -26,6 +26,9 @@ This collection is meant as a support for the Liquid Legal Institute [work on Re
 * Steve Glaveski, **Five Levels of Remote Work**,  
   https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c 
 
+* Zapier's: **The ultimate guide to remote work**, a dense and curated collection of many useful resources for remote teams,
+  https://zapier.com/learn/remote-work/
+
 ### A. III. Topic specific information 
 
 #### A. III. 1. Communication 
@@ -77,6 +80,8 @@ This collection is meant as a support for the Liquid Legal Institute [work on Re
 
 * Britta Redman, **Agile Arbeit rechtssicher gestalten, Leitfaden für die unternehmerische Praxis** (2019), Haufe, Monografie, https://shop.haufe.de/prod/agile-arbeit-rechtssicher-gestalten 
 
+* **Remote workshops**, ein sehr gutes Handbuch zum Veranstalten interaktiver Formate im virtuellen Raum
+  https://docs.google.com/document/d/1X15BWj-LJaOLunscdISWHutzXH6nZIYIqf8T7gqoRB4/edit
  
 
 ### B. III. Themenspezifische Informationen 
