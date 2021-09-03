@@ -39,6 +39,8 @@ This collection is meant as a support for the Liquid Legal Institute [work on Re
 
 * **How 15 Minutes Each Week Keeps Our Distributed Team Connected**, https://blog.trello.com/how-15-minutes-each-week-keeps-our-distributed-team-connected 
 
+* **Four causes for Zoom Fatigue and how to avoid it**, Stanford research, https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/ 
+
 #### A. III. 2. Employment 
 
 * Art Markman, **How to start a new job remotely**, 
