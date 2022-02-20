@@ -104,8 +104,15 @@ This collection is meant as a support for the Liquid Legal Institute [work on Re
 * Sandrina Lorenz, **“Es wird ein großes Stück mehr Selbstbestimmung übrig bleiben"**, https://www.manager-magazin.de/unternehmen/karriere/new-work-wie-sie-erfolgreich-remote-fuehren-podcast-a-1306520.html 
 
 
+## C. Legal framework
 
-## C. Authorship and source
+This section covers pointers to applicable laws and discussion in legal journals.
+
+### C. 1. Switzerland
+
+* Gilliéron, Philippe; Bolomey, Ema: **Télétravailet avocats: vers une nouvelle normalité?**, https://anwaltsrevue.recht.ch/de/artikel/01arv1121prx/teletravail-et-avocats-vers-une-nouvelle-normalite?keys=t%C3%A9l%C3%A9travail&s%5Bref%5D=%2Fsearch%2Fcontent#hit-0
+
+## D. Authorship and source
 
 The Liquid Legal Institute is an open and interdisciplinary platform promoting a new way of thinking and working in the legal sector. Being neutral and non-profit, it enables stakeholders to address digitalisation, new business models and technological innovations within the field of law. We are a group more than 150 multi-disciplinary enthusiasts from over 10 countries promoting Liquid Legal and shaping the new realities in law. For this purpose, we leverage insight from other disciplines and address specifics of the law. We focus on tangible action, gathering knowledge, creating methodology kits, setting standards and further activities that use an open mindset to make law practice better for everyone involved.
  We believe in the power of collaboration, co-innovation and simplification. We base or work on actual needs and invite all stakeholders to bring in their perspectives and set the bar for tomorrow's legal! 
