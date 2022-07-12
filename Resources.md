@@ -46,6 +46,11 @@ This collection is meant as a support for the Liquid Legal Institute [work on Re
 * Art Markman, **How to start a new job remotely**, 
   https://hbr.org/2020/05/starting-a-new-job-remotely 
 
+#### A. III. 3. Professional rules and regulation
+
+* **Remote working tools for lawyers | CCBE guidance**,
+  https://ellentimmer.com/2020/12/24/remote-working/
+
 ### A. IV. Other formats than written texts 
 
 #### A. IV. 1. Podcasts 
